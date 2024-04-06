@@ -1,15 +1,15 @@
 {
-    "name": "Your NFT Name",
-    "description": "NFT Description",
-    "image": "image url",
+    "name": "EXP01",
+    "description": "Exclusive Product NFT",
+    "image": "https://postimg.cc/k2CppjTb",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Product Type",
+            "value": "Exclusive"
         },
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Category",
+            "value": "Electronics"
         }
     ]
 }

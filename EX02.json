@@ -1,0 +1,15 @@
+{
+    "name": "EX01",
+    "description": "Exclusive Product NFT",
+    "image": "Untitled design (1).png",
+    "attributes": [
+        {
+            "trait_type": "Product Type",
+            "value": "Exclusive"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Electronics"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "name": "CF01",
     "description": "Creator's Favorite Rights NFT",
-    "image": "https://example.com/cf01-image.jpg",
+    
     "attributes": [
         {
             "trait_type": "Type",

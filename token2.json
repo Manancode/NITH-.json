@@ -1,0 +1,19 @@
+{
+    "name": "CF01",
+    "description": "Creator's Favorite Rights NFT",
+    "image": "https://example.com/cf01-image.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "NFT"
+        },
+        {
+            "trait_type": "Creator",
+            "value": "Manan Arora"
+        },
+        {
+            "trait_type": "Rights",
+            "value": "Creator's Favorite Rights"
+        }
+    ]
+}
